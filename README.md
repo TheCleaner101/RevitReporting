@@ -20,7 +20,7 @@ This app takes Revit model data formated in JSON files produced by Dynamo script
 3. Start the server
 
   ```
-  $ npm start
+  $ node app.js
   ```
 
 4. Open your browser and enter the url http://localhost:3000.
